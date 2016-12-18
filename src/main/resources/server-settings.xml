@@ -1,0 +1,22 @@
+<list>
+	<uri>
+		<scheme>http</scheme>
+		<server>localhost</server>
+		<port>8081</port>
+	</uri>
+	<uri>
+		<scheme>http</scheme>
+		<server>localhost</server>
+		<port>8082</port>
+	</uri>
+	<uri>
+		<scheme>http</scheme>
+		<server>localhost</server>
+		<port>8083</port>
+	</uri>
+	<uri>
+		<scheme>http</scheme>
+		<server>localhost</server>
+		<port>8084</port>
+	</uri>
+</list>

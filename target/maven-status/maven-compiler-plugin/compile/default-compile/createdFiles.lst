@@ -1,0 +1,6 @@
+com\orion10110\training\loadbalancer\components\RestServers.class
+com\orion10110\training\loadbalancer\ProxyController.class
+com\orion10110\training\loadbalancer\components\impl\XmlUriImpl.class
+com\orion10110\training\loadbalancer\model\UriForLB.class
+com\orion10110\training\loadbalancer\components\impl\RestServersImpl.class
+com\orion10110\training\loadbalancer\components\AwareUri.class
